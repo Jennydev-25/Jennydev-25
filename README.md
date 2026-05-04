@@ -1,16 +1,40 @@
-## Hi there 👋
+#👋 Hola Mundo, soy Jenny!
 
-<!--
-**Jennydev-25/Jennydev-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Future Web Developer | Bootcamp F5 Student 
 
-Here are some ideas to get you started:
+----------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a passionate web development student currently building my skills from the ground up.  
+I enjoy solving problems, learning new technologies, and challenging myself every day.
+
+I’m focused on growing into a professional developer and creating clean, functional, and user-friendly web applications.
+
+----------
+
+## 🛠️ Tech Stack
+
+**Currently working with:**
+
+-   HTML5
+    
+-   CSS3
+    
+-   JavaScript
+    ...
+**Next on my roadmap:**
+
+-   React
+    
+-   Node.js
+    ...
+
+----------
+
+## 📫 Contact Me
+    
+-   💼 LinkedIn: ...
+   
+
+----------
