@@ -23,14 +23,16 @@ I’m focused on growing into a professional developer and creating clean, funct
 -   CSS3
     
 -   JavaScript
-    
+
+    ...
 
 **Next on my roadmap:**
 
 -   React
     
 -   Node.js
-    
+
+    ...
 
 ----------
 
