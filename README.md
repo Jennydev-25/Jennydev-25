@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="animated gold star" width="20"> About me
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUwYmI4cWFqb2hwbGl6ZnEzMDlqYzE2dzl0dTd5eWptOXhyYmtvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7sPRRShOkcPl7wR3jQ/giphy.gif" alt="animated rocket" width="20"> About me
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlOTkzOHViaGV1ejcyNHJ3YW9wbG56ZmN1aGV0Z2h0a3h2djE4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XzXvFg41ZNZv44jvTx/giphy.gif" alt="green cactus in a small pot growing gently in a bright animated loop" width="25%" align="right"/>
 
