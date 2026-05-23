@@ -16,12 +16,14 @@
 - :computer: I’m `focused on growing` into a professional developer and creating clean, functional, and user-friendly web applications.
 - :brain: I enjoy solving problems, `learning new technologies`, and challenging myself every day.
 
-<br>
+<br><br><br>
 
 ## <img alt="Animated mailbox receiving a letter" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJkNjJpN3VzZWJzbXdpbjlhb2VtajhndHQwY2F3Z3c1NHFmdGtjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SqeOkSnV9xMmmOylZ6/giphy.gif" width="40"> Contact with me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/jennifer-s%C3%A1nchez-requejo-7a2645410/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn logo linking to profile" />
+  </a>
 </p>
 
 <br>
@@ -31,14 +33,14 @@
 <h3>Currently works with:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,java,git,github,figma,bash"/>
+    <img src="https://skillicons.dev/icons?i=bash,vscode,git,github,figma,html,css,sass,js,npm,nodejs,vitest,bootstrap"/>
   </a>
 
   <h3>Next on my roadmap:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,docker,js,mysql,nextjs,nodejs,npm,postgresql,react,sass,spring,tailwind,tensorflow,ts,vue,vuetify"/>
+    <img src="https://skillicons.dev/icons?i=angular,docker,java,mysql,nextjs,postgresql,react,spring,tailwind,tensorflow,ts,vue,vuetify"/>
   </a>
 </p>
 
