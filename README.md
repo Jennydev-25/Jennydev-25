@@ -10,13 +10,22 @@
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUwYmI4cWFqb2hwbGl6ZnEzMDlqYzE2dzl0dTd5eWptOXhyYmtvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7sPRRShOkcPl7wR3jQ/giphy.gif" alt="animated rocket" width="40"> About me
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlOTkzOHViaGV1ejcyNHJ3YW9wbG56ZmN1aGV0Z2h0a3h2djE4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XzXvFg41ZNZv44jvTx/giphy.gif" alt="green cactus in a small pot growing gently in a bright animated loop" width="25%" align="right"/>
+<table>
+<tr>
+<td width="75%">
 
-- :woman_student: `Junior fullstack developer` training at Factoría F5 Bootcamp.
-- :computer: I’m `focused on growing` into a professional developer and creating clean, functional, and user-friendly web applications.
-- :brain: I enjoy solving problems, `learning new technologies`, and challenging myself every day.
+- :woman_student: `Junior fullstack developer` training at Factoría F5 Bootcamp
+- :computer: I’m `focused on growing` into a professional developer and creating clean, functional, and user-friendly web applications
+- :brain: I enjoy solving problems, `learning new technologies`, and challenging myself every day
 
-<br><br><br>
+</td>
+<td width="25%">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlOTkzOHViaGV1ejcyNHJ3YW9wbG56ZmN1aGV0Z2h0a3h2djE4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XzXvFg41ZNZv44jvTx/giphy.gif" alt="green cactus in a small pot growing gently in a bright animated loop" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br>
 
 ## <img alt="Animated mailbox receiving a letter" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJkNjJpN3VzZWJzbXdpbjlhb2VtajhndHQwY2F3Z3c1NHFmdGtjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SqeOkSnV9xMmmOylZ6/giphy.gif" width="40"> Contact with me
 
