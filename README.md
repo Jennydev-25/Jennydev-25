@@ -33,14 +33,14 @@
 <h3>Currently works with:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,vscode,git,github,figma,html,css,sass,js,npm,nodejs,vitest,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=bash,vscode,git,github,figma,html,css,sass,js,npm,nodejs,vitest,bootstrap,java,vue,spring,postman,firebase,vuetify,ts,tailwind,docker,mysql,pinia,nextjs"/>
   </a>
 
   <h3>Next on my roadmap:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,docker,java,mysql,nextjs,postgresql,react,spring,tailwind,tensorflow,ts,vue,vuetify"/>
+    <img src="https://skillicons.dev/icons?i=angular,aws,azure,gcp,graphql,kubernetes,mongodb,postgres,react,redis,tensorflow"/>
   </a>
 </p>
 
@@ -58,6 +58,4 @@ Uso de Markdown
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jennydev-25&theme=github)
 -->
 
-----------
-
-
+---
