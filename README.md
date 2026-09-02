@@ -27,20 +27,6 @@
 
 <br>
 
-## <img alt="Animated mailbox receiving a letter" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJkNjJpN3VzZWJzbXdpbjlhb2VtajhndHQwY2F3Z3c1NHFmdGtjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SqeOkSnV9xMmmOylZ6/giphy.gif" width="40"> Contact with me
-
-<p align="center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jenny.sanchez.dev@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail logo linking to send an email" />
-</a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jennifer-s%C3%A1nchez-requejo-7a2645410/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn logo linking to profile" />
-  </a>
-</p>
-
-<br>
-
 ## <img alt="animated crossed hammer and wrench icon representing tools and skills" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> My Skills
 
 <h3>Currently works with:</h3>
@@ -121,6 +107,20 @@ Bank account application built with OOP principles, inheritance, JUnit testing, 
 </table>
 
 <br/>
+
+## <img alt="Animated mailbox receiving a letter" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJkNjJpN3VzZWJzbXdpbjlhb2VtajhndHQwY2F3Z3c1NHFmdGtjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SqeOkSnV9xMmmOylZ6/giphy.gif" width="40"> Contact with me
+
+<p align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jenny.sanchez.dev@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail logo linking to send an email" />
+</a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jennifer-s%C3%A1nchez-requejo-7a2645410/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn logo linking to profile" />
+  </a>
+</p>
+
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="position: relative; top: 6px;"> GitHub Stats
 
