@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUwYmI4cWFqb2hwbGl6ZnEzMDlqYzE2dzl0dTd5eWptOXhyYmtvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7sPRRShOkcPl7wR3jQ/giphy.gif" alt="animated rocket" width="40"> About me
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUwYmI4cWFqb2hwbGl6ZnEzMDlqYzE2dzl0dTd5eWptOXhyYmtvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7sPRRShOkcPl7wR3jQ/giphy.gif" alt="animated rocket" width="30"> About me
 
 <table>
 <tr>
@@ -53,7 +53,7 @@
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> Featured Projects
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> Featured Projects
 
 <table>
 <tr>
