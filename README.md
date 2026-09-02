@@ -111,13 +111,11 @@ Bank account application built with OOP principles, inheritance, JUnit testing, 
 ## <img alt="Animated mailbox receiving a letter" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJkNjJpN3VzZWJzbXdpbjlhb2VtajhndHQwY2F3Z3c1NHFmdGtjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SqeOkSnV9xMmmOylZ6/giphy.gif" width="40"> Contact with me
 
 <p align="center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jenny.sanchez.dev@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail logo linking to send an email" />
-</a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jenny.sanchez.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail logo linking to send an email" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jennifer-s%C3%A1nchez-requejo-7a2645410/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn logo linking to profile" />
-  </a>
+<a href="https://www.linkedin.com/in/jennifer-sanchez-requejo/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn logo linking to profile" /></a>
+  &nbsp;&nbsp;
+<a href="https://www.instagram.com/dev_jenny/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo linking to profile" /></a>
 </p>
 
 <br>
