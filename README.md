@@ -10,22 +10,13 @@
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUwYmI4cWFqb2hwbGl6ZnEzMDlqYzE2dzl0dTd5eWptOXhyYmtvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7sPRRShOkcPl7wR3jQ/giphy.gif" alt="animated rocket" width="30"> About me
 
-<table>
-<tr>
-<td width="75%">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlOTkzOHViaGV1ejcyNHJ3YW9wbG56ZmN1aGV0Z2h0a3h2djE4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XzXvFg41ZNZv44jvTx/giphy.gif" alt="green cactus in a small pot growing gently in a bright animated loop" width="25%" align="right"/>
 
 - :woman_student: `Junior fullstack developer` training at Factoría F5 Bootcamp
-- :computer: I’m `focused on growing` into a professional developer and creating clean, functional, and user-friendly web applications
+- :computer: I'm `focused on growing` into a professional developer and creating clean, functional, and user-friendly web applications
 - :brain: I enjoy solving problems, `learning new technologies`, and challenging myself every day
 
-</td>
-<td width="25%">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlOTkzOHViaGV1ejcyNHJ3YW9wbG56ZmN1aGV0Z2h0a3h2djE4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XzXvFg41ZNZv44jvTx/giphy.gif" alt="green cactus in a small pot growing gently in a bright animated loop" width="100%"/>
-</td>
-</tr>
-</table>
-
-<br>
+<br><br><br>
 
 ## <img alt="animated crossed hammer and wrench icon representing tools and skills" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> My Skills
 
