@@ -46,12 +46,16 @@
   <img src="https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="draw.io"/>
 </p>
 
+<br>
+
 <h3>Next on my roadmap:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,aws,azure,gcp,graphql,kubernetes,mongodb,postgres,react,redis,tensorflow"/>
   </a>
 </p>
+
+---
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> Featured Projects
 
@@ -128,8 +132,6 @@ Bank account application built with OOP principles, inheritance, JUnit testing, 
 <a href="https://www.instagram.com/dev_jenny/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo linking to profile" /></a>
 </p>
 
-<br>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="position: relative; top: 6px;"> GitHub Stats
 
 <table>
@@ -152,6 +154,12 @@ Bank account application built with OOP principles, inheritance, JUnit testing, 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jennydev-25/Jennydev-25/output/github-contribution-grid-snake.svg" />
     <img alt="animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Jennydev-25/Jennydev-25/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=14&duration=4000&pause=1000&color=98C379&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+Feel+free+to+reach+out+if+you%27d+like+to+collaborate+or+just+say+hi&repeat=false" alt="Thanks for stopping by! Feel free to reach out if you'd like to collaborate or just say hi" /> <img alt="animated cat sticker saying thank you" src="https://media.giphy.com/media/5h9u3OODpw8gdXrdZr/giphy.gif" width="50">
 </p>
 
 ---
