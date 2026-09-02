@@ -32,11 +32,21 @@
 <h3>Currently works with:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,vscode,git,github,figma,html,css,sass,js,npm,nodejs,vitest,bootstrap,java,vue,spring,postman,firebase,vuetify,ts,tailwind,docker,mysql,pinia,nextjs"/>
+    <img src="https://skillicons.dev/icons?i=bash,vscode,git,github,figma,html,css,sass,js,npm,nodejs,vitest,bootstrap,java,vue,spring,postman,firebase,vuetify,ts,tailwind,docker,mysql,pinia,nextjs,notion"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit5"/>
+  <img src="https://img.shields.io/badge/Hamcrest-555555?style=flat-square" alt="Hamcrest"/>
+  <img src="https://img.shields.io/badge/JaCoCo-BF1B1B?style=flat-square" alt="JaCoCo"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver"/>
+  <img src="https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="draw.io"/>
+</p>
 
-  <h3>Next on my roadmap:</h3>
-
+<h3>Next on my roadmap:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,aws,azure,gcp,graphql,kubernetes,mongodb,postgres,react,redis,tensorflow"/>
