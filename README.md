@@ -61,14 +61,18 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="position: relative; top: 6px;"> GitHub Stats
 
- <!--  
-
-<p align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jennydev-25&theme=github" alt="jennydev-25"/>
-  </p>
-  
-Uso de Markdown
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jennydev-25&theme=github)
--->
+<table>
+<tr>
+<td width="33%">
+<img src="https://github-stats-extended.vercel.app/api?username=Jennydev-25&show_icons=true&theme=transparent&bg_color=161B22&border_color=FF8C00&title_color=FF8C00&text_color=8FBC8F&icon_color=228B22&ring_color=FF8C00" alt="Jenny's GitHub stats" width="100%"/>
+</td>
+<td width="33%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jennydev-25&layout=compact&theme=transparent&bg_color=161B22&border_color=FF8C00&title_color=FF8C00&text_color=8FBC8F" alt="Jenny's most used languages" width="100%"/>
+</td>
+<td width="33%">
+<img src="https://streak-stats.demolab.com/?user=Jennydev-25&background=161B22&border=FF8C00&stroke=FF8C00&ring=228B22&fire=FF8C00&currStreakNum=FF8C00&currStreakLabel=8FBC8F&sideNums=FF8C00&sideLabels=8FBC8F&dates=8FBC8F" alt="Jenny's GitHub streak" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
