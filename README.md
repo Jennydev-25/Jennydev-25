@@ -15,8 +15,10 @@
 - :woman_student: `Junior fullstack developer` training at Factoría F5 Bootcamp
 - :computer: I'm `focused on growing` into a professional developer and creating clean, functional, and user-friendly web applications
 - :brain: I enjoy solving problems, `learning new technologies`, and challenging myself every day
+- :coffee: When I'm not coding, you'll probably find me `doing crafts, gaming, or discovering new music`
+- :dart: My goal is to `land my first junior developer role` and keep building projects that solve real problems
 
-<br><br><br>
+<br>
 
 ## <img alt="animated crossed hammer and wrench icon representing tools and skills" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> My Skills
 
