@@ -146,4 +146,12 @@ Bank account application built with OOP principles, inheritance, JUnit testing, 
 </tr>
 </table>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jennydev-25/Jennydev-25/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jennydev-25/Jennydev-25/output/github-contribution-grid-snake.svg" />
+    <img alt="animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Jennydev-25/Jennydev-25/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
